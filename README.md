@@ -1,9 +1,11 @@
 ###如何下载：
-
+```
+npm install
+```
 ###实现如下功能：
-
-请求方法，可以通过路由访问服务器，并得到正确响应
+利用 express.Router,实现向服务器发送请求，并得到正确响应
 
 ###参考文档：
+
 - http://expressjs.com/en/guide/routing.html
 - http://expressjs.com/en/4x/api.html
